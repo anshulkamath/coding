@@ -1,0 +1,7 @@
+Total delivery time: 50.832991999999955 hours
+Packages Delivered: 2647
+
+Purchased 2 Truck(s): $200000
+Rented 0 Truck(s): $0
+Gas Cost: $0.0
+Total Cycle Cost: $200000.0

@@ -1,0 +1,199 @@
+UPDATE:
+
+4 trucks bought
+
+Cycle 1:
+
+Total Workhours: 113.49912044444446
+
+Hours: 23.745755999999997
+
+
+
+Truck Cost: 415000.0
+
+Employee Cost: 8730.0
+
+Gas Cost: 7120.2
+
+Total Cost: 430850.2
+
+Employees: 2, 2, 2, 3, 2
+
+----------------------------------------------------------
+
+Cycle 2:
+
+Total Workhours: 107.69561399999999
+
+Hours: 23.197661999999994
+
+
+
+Truck Cost: 15000.0
+
+Employee Cost: 7800.0
+
+Gas Cost: 6115.4
+
+Total Cost: 28915.4
+
+Employees: 2, 2, 2, 2, 2
+
+------------------------------------------
+
+Cycle 3:
+
+Total Workhours: 84.55573622222222
+
+Hours: 22.314702888888885
+
+
+
+Truck Cost: 0.0
+
+Employee Cost: 6930.0
+
+Gas Cost: 6130.8
+
+Total Cost: 13060.8
+
+Employees: 2, 2, 2, 3
+
+--------------------------------------------------
+
+Cycle 4:
+
+Total Workhours: 81.17751466666665
+
+Hours: 20.966644666666667
+
+
+
+Truck Cost: 0.0
+
+Employee Cost: 3600.0
+
+Gas Cost: 5114.1
+
+Total Cost: 8714.1
+
+Employees: 1, 1, 1, 2
+
+---------------------------------------------
+
+Cycle 5:
+
+Total Workhours: 82.57517533333335
+
+Hours: 22.299804666666663
+
+
+
+Truck Cost: 0.0
+
+Employee Cost: 3570.0
+
+Gas Cost: 5132.2
+
+Total Cost: 8702.2
+
+----------------------------------------------
+
+Cycle 6:
+
+Total Workhours: 106.61167933333329
+
+Hours: 23.927073333333325
+
+
+
+Truck Cost: 15000.0
+
+Employee Cost: 15600.0
+
+Gas Cost: 7134.6
+
+Total Cost: 37734.6
+
+Employees: 4, 4, 4, 4, 4
+
+--------------------------------------------------
+
+Cycle 7:
+
+Total Workhours: 108.50698933333334
+
+Hours: 23.909377333333328
+
+
+
+Truck Cost: 15000.0
+
+Employee Cost: 7680.0
+
+Gas Cost: 6134.0
+
+Total Cost: 28814.0
+
+Employees: 2, 2, 2, 2, 2
+
+--------------------------------------------------
+
+Cycle 8:
+
+Total Workhours: 86.61800666666664
+
+Hours: 22.388942
+
+
+
+Truck Cost: 0.0
+
+Employee Cost: 6240.0
+
+Gas Cost: 7137.0
+
+Total Cost: 13377.0
+
+Employees: 2, 2, 2, 2
+
+--------------------------------------------
+
+Cycle 9:
+
+Total Workhours: 84.13724733333332
+
+Hours: 22.03033266666667
+
+
+
+Truck Cost: 0.0
+
+Employee Cost: 3810.0
+
+Gas Cost: 5113.0
+
+Total Cost: 8923.0
+
+Employees: 1, 1, 1, 2
+
+---------------------------------------
+
+Cycle 10:
+
+Total Workhours: 80.65738933333333
+
+Hours: 21.289922
+
+
+
+Truck Cost: 0.0
+
+Employee Cost: 2880.0
+
+Gas Cost: 5116.4
+
+Total Cost: 7996.4
+
+Employees: 1, 1, 1, 1

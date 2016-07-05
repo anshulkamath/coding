@@ -1,0 +1,3 @@
+telephone, a device that makes and takes phone calls,
+sanchez, a terrible human being,
+binary, 10011101
